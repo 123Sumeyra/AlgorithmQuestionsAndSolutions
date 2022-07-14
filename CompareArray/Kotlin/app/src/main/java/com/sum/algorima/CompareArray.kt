@@ -1,10 +1,11 @@
-package com.sum.algoritma
+package com.sum.algorima
+
 
 fun main() {
 
     val result =   compareArray(arrayOf(5, 6, 3, 8), arrayOf(1, 3, 4,9))
 
-    println(result.joinToString(" "))
+    println(result.joinToString(" ")) // 2,2
 
 
 }
